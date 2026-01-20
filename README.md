@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I am Yogendra
 
-<!--
-**yogendrabhagwat/yogendrabhagwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student
 
-Here are some ideas to get you started:
+## About Me
+- I am learning Web Development
+- I am learning AI & ML
+- Final Year Project: AI Steganograohy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+HTML, CSS, JavaScript, Python, Git, GitHub
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
