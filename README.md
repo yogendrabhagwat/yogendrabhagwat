@@ -1,4 +1,4 @@
-# Hi 👋 I am Yogendra
+# Hi 👋 I am Yogendra Bhagwat
 
 Computer Engineering Student
 
